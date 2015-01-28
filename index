@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <link href='http://fonts.googleapis.com/css?family=Allura|Open Sans' rel='stylesheet' type='text/css'>
+  <link rel='stylesheet' type='text/css' href='css/normalize.css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <title>Meagan Austin | Web Designer</title>
+</head>
+<body>
+  <div class='circle'>
+  <header>
+    <h1>Meagan Austin</h1>
+      <h2>Web Designer</h2>
+    <nav>
+      <ul>
+	<li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="work.html">Work</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="social-media" align="center">
+      <a href="http://www.twitter.com/MAustin07"><i class="fa fa-twitter"></i></a>
+      <a href="https://www.facebook.com/meagana1"><i class="fa fa-facebook"></i></a>
+  </div>
+  </header>
+ </div>
+</body>
+</html
